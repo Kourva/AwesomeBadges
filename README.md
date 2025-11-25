@@ -24,6 +24,7 @@ Collection of awesome badges and Icons for programmers. You can make new badges 
     <img width="60px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/flet.png" />
     <img width="60px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/odoo.png" />
     <img width="60px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/vue.png" />
+    <img width="60px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/nuxt.png" />
     <img width="60px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/django.png" />
     <img width="60px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/jquery.png" />
     <img width="60px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/bootstrap.png" />
