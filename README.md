@@ -8,6 +8,7 @@ Collection of awesome badges and Icons for programmers. You can make new badges 
     <img width="60px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/go.png" />
     <img width="60px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/cpp.png" />
     <img width="60px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/js.png" />
+    <img width="60px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/typescript.png" />
     <img width="60px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/php.png" />
     <img width="60px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/html.png" />
     <img width="60px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/css.png" />
